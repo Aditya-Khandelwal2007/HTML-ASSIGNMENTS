@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+    <h1>My Favourite Marvel movies</h1>
+    <br>
+    <ol>
+        <li><b>Phase One</b></li>
+        <ul>
+            <li>Iron Man</li>
+            <ul type="a">
+                <li>Release Date</li>
+                <ul type="circle">
+                    <li>
+                        May 2,2008
+                    </li>
+                    
+                </ul>
+                <li>
+                    Director's
+
+                </li>
+                <ol>
+                    <li>
+                        Jon Favreau
+                    </li>
+                    <ul>
+                        <li>
+                            Actor
+                            <ul>
+                                <li>
+                                    1992-present
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            Director
+                        </li>
+                    </ul>
+                </ol>
+                <li>
+                    Producer's
+                    <ol reversed>
+                        <li>
+                            Avi Arad
+                        </li>
+                        <li>
+                            Kevin Feigh
+                        </li>
+                    </ol>
+                </li>
+            </ul>
+            <li>
+                The Incredible Hulk
+                <ul>
+                    <li>
+                        Release Date
+                        <ul>
+                            <li>
+                                June 13,2008
+                            </li>
+                        </ul>
+                    </li>
+                <li>
+                    Director's 
+                    <ul>
+                        <li>
+                            Louis Leterrior
+                            <ul>
+                                <li>
+                                    Director
+                                    <ul>
+                                        <li>
+                                            2002-present
+                                        </li>
+                                    </ul>
+                                    Producer
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                <li>Producer's 
+                </li>
+                <ul reversed>
+                    <li>
+                        Gale Anne Hurd
+                    </li>
+                
+                
+
+                    <li>
+                        Avi arad
+                    </li>
+                    <li>
+                        Kevin Feige
+                    </li>
+                </ul>
+                </li>
+    
+   
+            </ul>
+         
+        <li>
+            Iron Man 2
+            <ol>
+                <li>
+                Release Date
+             <ul>
+                 <li>
+                     May 7 , 2010
+                 </li>
+             </ul>   
+            </li>
+            <li>
+                Director's</li>
+                <ul>
+                    <li>John Favreau
+                        <ul>
+                            <li>
+                                Actor
+                            <ul>
+                                <li>
+                                    1992-Present
+                                <ol>
+                                    <li>
+                                        About Him
+                                    <ul>
+                                        <li>As an Actor,Favreau appeared in the films Rudy,Swingers</li>
+                                    </ul>
+                                    </li>
+                                </ol>
+                                </li>
+                            </ul>
+                            </li>
+                            <li>Director</li>
+                        </ul>
+                    </li>
+                </ul>
+                <li>
+                    Producer's
+                <ol>
+                    <li>Kevin Feige</li>
+                </ol>
+                </li>
+            </ol>
+            <li>Thor
+            <ol>
+            <li>Release Date
+                <ul>
+                    <li>
+                        May 6 ,2011
+                    </li>
+                </ul>
+            </li>
+            <li>Director's
+                <ul>
+                    <li>Kenneth Bennagh
+                        <ul>
+       
+                        <li>Actor
+                            <ul>
+                                <li>
+                                    1981-Present
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Director</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>Producer's
+                <ul>
+                    <li>Kevin Feige</li>
+                </ul>
+            </li>
+            </ol>
+            </li>
+        </li>
+        <li>Phase 2
+            <ul>
+                <li>Iron Mn 3
+                    <ul>
+                        <li>Release Date
+                            <ul>
+                                <li>
+                                    May 3,2013
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Director's 
+                            <ul>
+                                <li>
+                                    Shane Black
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Thor:The Dark World
+                    <ul>
+                        <li>
+                            Release Date
+                            <ul>
+                                <li>
+                                    November 8,2013
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            Director's
+                            <ul>
+                                <li>
+                                    Alan Taylor
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            Phase 3
+            <ol>
+                <li>
+                    Captain Marvel
+                </li>
+                <li>
+                    Avengers:Endgame 
+                </li>
+            </ol>
+        </li>      
+    </ol>
+    <h1><b>Upcoming Phase 4</b></h1>
+    <h3>Black Widow</h3>
+    <p>    Black Widow is an upcoming American superhero film based on the Marvel Comics character</p>   
+</body>
+</html>
