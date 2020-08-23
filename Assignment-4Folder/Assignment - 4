@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        CbJR Web Development
+    </h1>
+<a href="#1234">Link to " section 2" of Assignment 4.html</a>
+<br>
+<a href="...abc.html"> Link to abc.html</a>
+<br>
+<a href="...abc.html#ef"> Link to "Place 3" of abc.html</a>
+<br>
+<a href="...folder2/xyz.html">Link to xyz.html of folder2 folder</a>
+<br>
+<a href="...folder2/xyz.html#tu"> Link to "Food 3" of xyz.html file of folder2 folder</a>
+<br>
+<h2>Below we have different sections. In each section links are used</h2>
+<br>
+<h1>Section 1</h1>
+<h2>this section consists of the links which will direct us to different websites</h2>
+<a href="www.youtube.com">Youtube</a>
+<br>
+<a href="https://online.codingblocks.com/">Coding Blocks</a>
+<br>
+<a href="www.github.com">Github</a>
+<br>
+<a href="www.google.com">Google</a>
+<br>
+<a href="www.educationalcartoons.com">Educational Cartoons</a>
+<br>
+<h1 id="1234">Section 2</h1>
+<h2>This section consists of links through which we can directly call a particular organization</h2>
+<a href="tel:9933042343">Medical Helpline Number</a>
+<br>
+<a href="tel:1234567890">Jio customer care number</a>
+<br>
+<a href="tel:1234567890">Coding Blocks Helpline Number</a>
+<br>
+<a href="3456789012">COVID-19 Helpline Number</a>
+<br>
+<h1>Section 3</h1>
+<h2>This section consists of the links through which we directly mail a particular organization</h2>
+<br>
+<a href="mailto:online@codingblocks.com">Cpoding Blocks Helpline Email id</a>
+<br>
+<a href="mailto:sbi@gmail.com">SBI Helpline Number</a>
+<br>
+<a href="mailto:vidyamandir.gmail.com">Vidyamandir Helpline Number</a>
+<br>
+<a href="mailto:covid@gmail.com">Covid-19 Email id</a>
+<br>
+<h1>Section 4</h1>
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi rerum ullam error placeat sint dicta 
+ostrum, quos quo. Deleniti, earum illo quis enim iusto nobis vel atque sed obcaecati voluptatum! 
+</body>
+</html>
